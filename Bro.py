@@ -5,7 +5,7 @@
 #decompile by star-vampire
 
 try:
-
+"""
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
 
     from multiprocessing.pool import ThreadPool
@@ -71,7 +71,7 @@ c3 = "\033[1;91m"
 logo = """                                          
 
 
-
+"""
 \033[1;96m······················;ρβΜΜΜΜΜΜμ;\033[1;97m
 \033[1;96m···················;ρΜΜΠ΅Ε;ΪΜΜΪΫΜΜμ\033[1;97m
 \033[1;96m··················ΔΜΒ΄ΚΚκκΚΪΜΜΜΜΜΪΜΜΝ\033[1;97m
@@ -159,9 +159,9 @@ def main():
     
 
 def main_select():
-
-    SyedRahim = raw_input("\033[1;97m[!] Select --->\033[1;96m ")
 """
+    SyedRahim = raw_input("\033[1;97m[!] Select --->\033[1;96m ")
+""""""
     if Syed  =="1":
 
         login()
